@@ -22,4 +22,4 @@ Metro Network Analysis involves studying metro systems to understand how they ar
 - <b>plotly.subplots</b>
 - <b>plotly.io</b>
 
- ### [Click to visit code](https://github.com/KFrimps/Food-Delivery-Cost-and-Profitability-Analysis/blob/main/Food%20Delivery%20Cost%20and%20Profitability%20Analysis.ipynb)
+ ### [Click to visit code](https://github.com/KFrimps/Delhi-Metro-Network-Analysis/blob/main/Delhi%20Metro%20Network%20Analysis.ipynb)
